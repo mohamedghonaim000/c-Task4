@@ -1,0 +1,15 @@
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\assigment04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\assigment04.AssemblyInfoInputs.cache
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\assigment04.AssemblyInfo.cs
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\assigment04.csproj.CoreCompileInputs.cache
+E:\Backend\assigment04\assigment04\bin\Debug\net5.0\assigment04.exe
+E:\Backend\assigment04\assigment04\bin\Debug\net5.0\assigment04.deps.json
+E:\Backend\assigment04\assigment04\bin\Debug\net5.0\assigment04.runtimeconfig.json
+E:\Backend\assigment04\assigment04\bin\Debug\net5.0\assigment04.runtimeconfig.dev.json
+E:\Backend\assigment04\assigment04\bin\Debug\net5.0\assigment04.dll
+E:\Backend\assigment04\assigment04\bin\Debug\net5.0\assigment04.pdb
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\assigment04.dll
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\refint\assigment04.dll
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\assigment04.pdb
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\assigment04.genruntimeconfig.cache
+E:\Backend\assigment04\assigment04\obj\Debug\net5.0\ref\assigment04.dll
